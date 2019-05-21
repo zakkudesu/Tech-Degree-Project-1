@@ -1,4 +1,4 @@
-/* Global Layout Set-up */
+/* Treehouse Template with a few Modifications */
 * { 
     box-sizing: border-box;
   }
@@ -73,9 +73,6 @@
     border: 1px solid white; 
     transition: all .5s;
   }
-  /* header .profile-image:hover {
-    transform: scale(1.2) rotate(5deg);
-  } */
   .tag {
     background-color: #efefef;
     color: black;
