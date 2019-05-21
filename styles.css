@@ -85,8 +85,8 @@
     margin: 10px auto;
   } 
   .location {
-    background-color: #222;
-    color: yellow;
+    background-color: #fff;
+    color: black;
   }
   .card {
     margin: 30px;
@@ -151,9 +151,9 @@
     opacity: .4;
     transition: all .5s;
   }
-  a.twitter {
+  /* a.twitter {
     background-image: url(images/twitter.svg);
-  }
+  } */
   a.linkedin {
     background-image: url(images/linkedin.svg);
   }
