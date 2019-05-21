@@ -70,7 +70,7 @@
     width: 150px;
     height: 150px; 
     border-radius: 50%;
-    border: 1px solid white; 
+    border: 5px solid white; 
     transition: all .5s;
   }
   .tag {
